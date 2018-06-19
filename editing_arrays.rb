@@ -5,7 +5,7 @@ rainbow_colors = [
 ]
 
 def change_rainbow_colors
-  rainbow_colors.in
+  rainbow_colors.insert()
 end
 
 
