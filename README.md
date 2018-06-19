@@ -101,3 +101,18 @@ this:
 ![a rainbow](https://ironboard-learn.s3.amazonaws.com/rainbow.png)
 
 # Thanks for fixing the rainbow!
+
+
+rainbow_colors = [
+  "yellow",
+  "default",
+  "light_cyan"]
+print rainbow_colors
+
+
+
+
+
+
+
+
